@@ -32,4 +32,4 @@ An interactive Data Science dashboard that compares **Linear Regression** and **
 ---
 
 ## 👨‍💻 Author
-**Chinmay V Chatradamath**
+**Chinmay V Chatradamath.**
